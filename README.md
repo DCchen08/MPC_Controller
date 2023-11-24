@@ -1,5 +1,5 @@
 # MPC_Controller
-<p> Here is the ReadMe file on MPC_Controller. The vehicle model matrix will be showed below:./
+<p> Here is the ReadMe file on MPC_Controller. The vehicle model matrix will be showed below:
 <p> Here is the state space matrix(Discrete)
 
 
